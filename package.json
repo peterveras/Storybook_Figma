@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@storybook/addon-actions": "^6.4.22",
+    "@storybook/addon-essentials": "^6.4.22",
+    "@storybook/addon-links": "^6.4.22",
+    "@storybook/vue": "^6.4.22",
+    "babel-loader": "^8.2.5",
+    "chromatic": "^6.5.4",
+    "vue-loader": "^15.9.8"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
